@@ -1,0 +1,9 @@
+git init 
+git add . 
+git commit -m "message here"
+git status           
+gi log --oneline     ----> checking prev commits 
+
+git config --global user.name "jofay"
+git config --global user.email "jofay2gmail.com"
+git config --list
